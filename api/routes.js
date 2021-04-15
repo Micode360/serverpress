@@ -1,7 +1,7 @@
 const router = require('express').Router();
-// const nodemailer = require('nodemailer');
+
 const kingsData = require('../models/structure-base');
-// const { body, check, validationResult } = require('express-validator');
+
 
 
 router.post('/kingpress/data/message/senddata', (req, res) => {
