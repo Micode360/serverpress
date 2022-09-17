@@ -1,2 +1,2 @@
 # serverpress
-This is a simple serverside micoroservice apllication. 
+This is a simple serverside microservice application. 
